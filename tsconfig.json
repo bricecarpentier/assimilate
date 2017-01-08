@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "types": [
+            "core-js",
+            "github",
+            "node"
+        ]
+    },
+    "files": [
+        "index.ts",
+        "lib/mixins.ts",
+        "lib/plugins.ts",
+        "plugins/github_plugin.ts"
+    ],
+     "moduleResolution": "node"
+}

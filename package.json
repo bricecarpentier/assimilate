@@ -1,0 +1,18 @@
+{
+  "name": "assimilate",
+  "version": "1.0.0",
+  "description": "a merging bot",
+  "main": "index.js",
+  "repository": "git@github.com:bricecarpentier/assimilate.git",
+  "author": "Brice Carpentier <brice@daknet.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^6.0.53",
+    "@types/promise": "^7.1.30",
+    "typescript": "2.1"
+  },
+  "dependencies": {
+    "github": "^7.1.0"
+  }
+}
